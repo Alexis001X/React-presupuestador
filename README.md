@@ -26,7 +26,8 @@ To run this project, you will need to add the following environment variables to
 
 `ANOTHER_API_KEY`
 
-
+## Deploy
+Netlify: https://66c53d16a25ad28aa5e46072--lucent-creponne-9dcbf3.netlify.app/
 ## Features
 
 - React components
